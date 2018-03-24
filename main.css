@@ -1,0 +1,39 @@
+body {
+    background-color: grey;
+
+}
+
+#card-holder {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.card {
+    width: 304px;
+    height: 369px;
+    border: 3px solid white;
+    background-color: orange;
+    text-align: center;
+    margin: 4%;
+}
+
+img {
+    height: 125px;
+    width: 185px;
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+h2 {
+    font-family: arizonia, helvecta, sans-serif;
+    font-size: 19px;
+}
+
+textarea{
+    height: 66px;
+    width: 244px;
+}
