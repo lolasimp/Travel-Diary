@@ -33,6 +33,13 @@ h2 {
     font-size: 19px;
 }
 
+#diary-entry {
+    border: 2px solid transparent;
+    border-radius: 29px;
+    box-shadow: 12px 17px;
+    background-color: #d6d4d7;
+}
+
 textarea{
     height: 66px;
     width: 244px;

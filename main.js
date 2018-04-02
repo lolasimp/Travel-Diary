@@ -73,11 +73,10 @@ const diaryDomString = (e) => {
         let diaryDom = '';
         diaryDom += `<div class="diary-ouput">`;
         diaryDom += `<h2>${e.target.parentNode.children[0].innerHTML}</h2>`;
-        diaryDom += `<h4>${e.target.parentNode.children[3].value}</h4>`;
+        diaryDom += `<h3>${e.target.parentNode.children[3].value}</h3>`;
         diaryDom += `</div>`;
             printToDom(diaryDom,'diary-entry');
         e.target.parentNode.children[3].value = '';
-
 };
 
 const startApplication = () => {
