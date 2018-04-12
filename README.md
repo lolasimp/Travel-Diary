@@ -5,9 +5,10 @@ Practiced printToDom and eventListeners. User was able to type in visted locatio
 
 ## Screenshots
 ![Webpage]
-
+(https://raw.githubusercontent.com/lolasimp/Travel-Diary/master/screenshots/Screenshot%201.png)
 ## Screenshots
 ![Webpage]
+(https://raw.githubusercontent.com/lolasimp/Travel-Diary/master/screenshots/Screenshot%202.png)
 
 ## How to Run
 1. Clone down this repo, and cd into the project
